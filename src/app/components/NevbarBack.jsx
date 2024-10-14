@@ -9,7 +9,7 @@ export default function NevbarBack() {
                                 {/* company pic*/}
                                 <a href="/">
                                     <img
-                                        src='https://scontent.fcnx4-1.fna.fbcdn.net/v/t1.15752-9/462368127_1201967064371003_6279712095163667306_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=9f807c&_nc_ohc=1iW8ewglY9MQ7kNvgHywj6P&_nc_ht=scontent.fcnx4-1.fna&_nc_gid=A9hXRme4MXFxd5T7VQJldFH&oh=03_Q7cD1QEF0hvX-ghnv15w9WL_knLA8kWh2UenxdkTyqO7JSO1Cg&oe=6731022B'
+                                        src='https://scontent.fbkk12-2.fna.fbcdn.net/v/t1.15752-9/462348361_1271566654281761_6063916151914206361_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=9f807c&_nc_ohc=or6ACC2rtWQQ7kNvgEm9AG8&_nc_zt=23&_nc_ht=scontent.fbkk12-2.fna&_nc_gid=ANBXDo-9J2cX64UoITevVfS&oh=03_Q7cD1QHA6j9gJvt7oxsBNm_b71GDZ2gxdwtybqHtQtA4BYI1LA&oe=67342A74'
                                         alt="Your Company"
                                         className="h-16 w-auto"
                                     />
