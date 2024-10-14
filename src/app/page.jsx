@@ -27,7 +27,7 @@ export default function Home() {
             </p>
 
             <p className="mt-8 text-center text-xl max-w-7xl px-4 sm:px-6 lg:px-8 text-black">
-              อัตราค่าบริการ "ร้านชาบูจิ"
+              อัตราค่าบริการ &quot;ร้านชาบูจิ&quot;
             </p>
             <p className="text-center max-w-7xl px-4 sm:px-6 lg:px-8 text-black mt-4">
               ราคาสำหรับที่นั่งทั่วไป
