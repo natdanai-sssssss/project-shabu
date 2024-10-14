@@ -11,7 +11,7 @@ export default function Home() {
         <Nevbar/>
         <main>
           <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">{/* Your content */}
-            <img src="https://scontent.fcnx4-1.fna.fbcdn.net/v/t1.15752-9/462348361_1271566654281761_6063916151914206361_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=9f807c&_nc_ohc=or6ACC2rtWQQ7kNvgEcqXC7&_nc_zt=23&_nc_ht=scontent.fcnx4-1.fna&_nc_gid=A9P1C8LlolxK09R5DCk1P7C&oh=03_Q7cD1QHGc7-l-uqIkntoWDlBaE6KyVLFCjK3RVGb31xtpWBLzQ&oe=67323034"
+            <image src="https://scontent.fcnx4-1.fna.fbcdn.net/v/t1.15752-9/462348361_1271566654281761_6063916151914206361_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=9f807c&_nc_ohc=or6ACC2rtWQQ7kNvgEcqXC7&_nc_zt=23&_nc_ht=scontent.fcnx4-1.fna&_nc_gid=A9P1C8LlolxK09R5DCk1P7C&oh=03_Q7cD1QHGc7-l-uqIkntoWDlBaE6KyVLFCjK3RVGb31xtpWBLzQ&oe=67323034"
               alt="" />
             <p className="text-center max-w-7xl px-4 py-10 sm:px-6 lg:px-8 text-3xl font-medium leading-6 text-orange-700 font-bold">
               ร้านชาบูจิ
